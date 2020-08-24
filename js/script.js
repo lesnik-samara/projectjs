@@ -25,5 +25,3 @@ let incr = 10,
 // decr--;
 
 console.log(incr++, --decr);
-
- console.log (incr);
