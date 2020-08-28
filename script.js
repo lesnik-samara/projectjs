@@ -1,30 +1,35 @@
-// const result = confirm('Are you here?')
-// console.log(result);
+// "use strict";
 
-// const answer = prompt("Вам есть 19?", "12"); 
-// console.log(answer + 5);
+// let number = 5;
+// const LeftBorderWidth = 1;
 
-// const answers = [];
-// answers[0] = prompt('как дела?', '');
-// answers[1] = prompt('сколько лет?', '');
-// answers[2] = prompt('всё?', '');
+// number = 10;
+// console.log(number);
 
-// document.write(answers);
+// const obj = {
+//     a: 50
+// };
 
-const category = "toys";
+// obj.a = 10;
 
-console.log(`http://someurl.com/${category}/5`);
+// console.log('string' * 9);
 
-const user = "Ivan";
-alert(`Привет, ${user}`);
+// const persone = '5';
 
-let incr = 10,
-    decr = 10;
+// const bool = true;
 
-// incr++;
-// decr--;
+// const obj = {
+//     name: "John",
+//     age: 25,
+//     isMariied: false
+// };
 
-console.log(incr++, --decr);
+// // console.log(obj.age);
+// console.log(obj["name"]);
+
+// let arr = ['oran.png', 24, ["ust", 3]];
+// console.log(arr[2]);
+
 
 const numberOfFilms = +prompt ('Сколько фильмов вы посмотрели?', '');
 
