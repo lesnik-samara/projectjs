@@ -47,4 +47,4 @@ const a = prompt('Последний фильм', ''),
 personalMovieBD.movies[a] = b;
 personalMovieBD.movies[c] = d;
 
-console.log(personalMovieBD);
+
